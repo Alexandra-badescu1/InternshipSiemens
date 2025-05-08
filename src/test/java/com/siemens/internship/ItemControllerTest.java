@@ -1,5 +1,8 @@
 package com.siemens.internship;
 
+import com.siemens.internship.controller.ItemController;
+import com.siemens.internship.model.Item;
+import com.siemens.internship.service.ItemService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;

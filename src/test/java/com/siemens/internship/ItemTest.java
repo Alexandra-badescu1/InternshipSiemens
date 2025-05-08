@@ -1,5 +1,6 @@
 package com.siemens.internship;
 
+import com.siemens.internship.model.Item;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

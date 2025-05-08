@@ -1,5 +1,7 @@
-package com.siemens.internship;
+package com.siemens.internship.service;
 
+import com.siemens.internship.model.Item;
+import com.siemens.internship.repository.ItemRepository;
 import jakarta.annotation.PreDestroy;
 import org.springframework.stereotype.Service;
 import java.util.List;
